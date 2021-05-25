@@ -22,19 +22,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/s/flfwq685tp1mp5k/Varo.ipa</string>
+					<string>https://dl.dropboxusercontent.com/s/주소/app.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>kr.co.wellize.Varo</string>
+				<string>(앱아이디)</string>
 				<key>bundle-version</key>
-				<string>1.0.1</string>
+				<string>(버전)</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Varo</string>
+				<string>(앱이름)</string>
 			</dict>
 		</dict>
 	</array>
