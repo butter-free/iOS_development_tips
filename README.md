@@ -67,3 +67,13 @@
 </p>
 </details>
 
+<details><summary>Device Support</summary>
+<p>
+https://github.com/filsv/iPhoneOSDeviceSupport
+	
+https://github.com/iGhibli/iOS-DeviceSupport
+	
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport/ 경로에 붙여넣기.
+</p>
+</details>
+
