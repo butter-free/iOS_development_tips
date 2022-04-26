@@ -77,3 +77,15 @@ https://github.com/iGhibli/iOS-DeviceSupport
 </p>
 </details>
 
+<details><summary>Documentation</summary>
+<p>
+
+```sh
+jazzy --min-acl internal 
+--clean 
+--xcodebuild-arguments -workspace,{PRODUCT_NAME}.xcworkspace,-scheme,{PRODUCT_NAME}
+```
+
+</p>
+</details>
+
